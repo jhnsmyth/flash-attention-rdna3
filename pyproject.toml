@@ -1,0 +1,7 @@
+[project]
+name = "flash-attn-rdna3"
+version = "0.1.0"
+
+[build-system]
+build-backend = "scikit_build_core.build"
+requires = []
